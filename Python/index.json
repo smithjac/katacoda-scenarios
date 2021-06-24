@@ -8,7 +8,7 @@
       "host01": [
             {"file": "hello_world.py", "target": "/opt/Python", "chmod": "+x"}
         ]
-    }
+    },
     "steps": [
       {
         "title": "Step 1",
