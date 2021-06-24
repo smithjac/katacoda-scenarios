@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "hi"
+python hello_world.py
