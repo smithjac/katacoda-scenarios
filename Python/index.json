@@ -20,7 +20,7 @@
     ],
     "intro": {
       "text": "intro.md",
-      "code": "hello_world.sh"
+      "courseData": "hello_world.sh"
     },
     "finish": {
       "text": "finish.md"
