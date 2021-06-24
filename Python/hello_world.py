@@ -1,6 +1,6 @@
 def main():
-    file = open('Python/newfile.txt', 'w')
-    file.write('Hello World')
+    file = open('newfile.txt', 'w')
+    file.write('Hello World\n')
     file.close()
 
 
