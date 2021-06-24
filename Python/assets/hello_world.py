@@ -1,6 +1,9 @@
+import os
+
+
 def main():
     print('Starting')
-    file = open('~/newfile.txt', 'w')
+    file = open(os.path.expanduser('~/newfile.txt'), 'w')
     file.write('Hello World\n')
     file.close()
     print('Ending')
