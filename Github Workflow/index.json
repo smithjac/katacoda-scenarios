@@ -19,7 +19,8 @@
       }
     ],
     "intro": {
-      "text": "intro.md"
+      "text": "intro.md",
+      "code": "intro_foreground.sh"
     },
     "finish": {
       "text": "finish.md"
