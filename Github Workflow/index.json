@@ -4,6 +4,11 @@
   "difficulty": "Intermediate",
   "time": "45 minutes",
   "details": {
+    "assets": {
+        "host01": [
+            {"file": "intro_foreground.py", "target": "/opt", "chmod": "+x"}
+        ]
+    },
     "steps": [
       {
         "title": "Step 1",
