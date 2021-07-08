@@ -1,2 +1,2 @@
 #!/bin/bash
-python /opt/intro_foreground.py
+python /opt/Python/intro_foreground.py
